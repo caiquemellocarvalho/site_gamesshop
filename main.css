@@ -97,7 +97,7 @@ section p {
     display: block;
 }
 
-.cotact-methods {
+.contact-methods {
     display:flex;
     justify-content: space-between;
 }
@@ -117,7 +117,7 @@ form textarea {
 }
 
 section h3 {
-    margin bottom: 16px;
+    margin-bottom: 16px;
 }
 
 form button {
